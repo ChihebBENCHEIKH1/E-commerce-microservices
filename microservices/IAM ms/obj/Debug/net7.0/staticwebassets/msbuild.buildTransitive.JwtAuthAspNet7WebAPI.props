@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\JwtAuthAspNet7WebAPI.props" />
-</Project>
