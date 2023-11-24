@@ -6,9 +6,6 @@ JWT(Json Web Token) is one of the most popular ways to implement authentication 
 
 In this repository, we create a new .Net 7 WebAPI project from scratch and implement Fully authentication and authorization in it.
 
-## YouTube Tutorial Link:
-
-[https://www.youtube.com/watch?v=KRVjIgr-WOU](https://www.youtube.com/watch?v=KRVjIgr-WOU)
 
 ## We use these packages:
 
@@ -36,6 +33,3 @@ In this repository, we create a new .Net 7 WebAPI project from scratch and imple
 - Identity Package
 - Custom User fields
 
-💖 You can Buy me a coffee to support: https://www.buymeacoffee.com/DevEmpower 💖
-
-Disclaimer: This repository is just a tutorial for beginners and it is not a commercial code. Use these Codes and functions on your responsibilities. Don’t forget that security is very important in any software and website and you must be aware of any functionality of codes of your projects.
